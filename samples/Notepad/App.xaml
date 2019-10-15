@@ -10,5 +10,6 @@
         <StyleInclude Source="avares://Avalonia.Themes.Default/Accents/BaseLight.xaml"/>
         <StyleInclude Source="avares://Dock.Avalonia.Themes.Default/DefaultTheme.xaml"/>
         <StyleInclude Source="avares://Dock.Avalonia.Themes.Metro/DefaultTheme.xaml"/>
+        <StyleInclude Source="resm:AvaloniaEdit.AvaloniaEdit.xaml?assembly=AvaloniaEdit" />
     </Application.Styles>
 </Application>
